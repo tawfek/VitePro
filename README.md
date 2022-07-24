@@ -19,7 +19,7 @@ Vite & antd starter template.
 Use this repository as a [GitHub template](https://github.com/tawfek/VitePro/generate) or use [degit](https://github.com/Rich-Harris/degit) to clone to your machine with an empty git history:
 
 ```
-npx degit tawfek/VitePro#main my-app
+npx degit tawfek/VitePro#master my-app
 ```
 
 Then, install the dependencies:
